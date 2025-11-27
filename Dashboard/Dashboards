@@ -1,7 +1,7 @@
-
+import webbrowser
 
 Afisha Dashboard
-[https://datalens.ru/qyhgdn8l04cib](url)
+webbrowser.open('https://datalens.ru/qyhgdn8l04cib', new=2)
 
 Estate Dashboard
 https://datalens.yandex/t82ha7nbew2if
